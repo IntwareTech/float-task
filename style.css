@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+  
   }
   
   body {
@@ -9,17 +9,13 @@
     line-height: 1.4;
   }
   
-  /* .clearfix::after {
-    content: '';
-    display: block;
-    clear: both;
-  } */
+
   .container {
     background-color: red;
   }
   
   .product-img {
-    /* float: left; */
+   
     margin-right: 40px;
   }
   
@@ -43,14 +39,14 @@
   .product-info {
   /*  (825 - 8 - 250 - 80) / 2  */
     width: 243px;
-    /* float: left; */
+    
     margin-right: 40px;
     margin-top: 20px;
   }
   
   .price {
     font-size: 24px;
-    /* float: left; */
+    
   }
   
   .shipping {
